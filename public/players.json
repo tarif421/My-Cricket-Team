@@ -1,0 +1,122 @@
+[
+  {
+    "playerImg": "https://i.ibb.co.com/v4PyJqLR/AB-de-Villiers-of-South-Africa-puts-his-team51.jpg",
+    "playerName": "ABD Villiers",
+    "playerCountry": "South Africa",
+    "playingRole": "Batter",
+    "rating": 5.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "left-arm orthodox",
+    "price": "$ 4,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/fwNdwDb/Getty-Images-2062939975-1725374145.webp",
+    "playerName": "McCullam",
+    "playerCountry": "New Zeland",
+    "playingRole": "Batsman",
+    "rating": 4.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$ 3,500 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/d4tqmHwG/1715940321-kusal-mendis-6.jpg",
+    "playerName": "Kushal Mendis",
+    "playerCountry": "Srilanka",
+    "playingRole": "w-keeper",
+    "rating": 4.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm-medium",
+    "price": "$ 3,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/7dMb0DbT/1696748634550-Shakib-Al-Hasan.jpg",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 4.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$ 3,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/k26fcng0/387231-6.webp",
+    "playerName": "Moeen Ali",
+    "playerCountry": "England",
+    "playingRole": "All-rounder",
+    "rating": 4.6,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$ 2,500 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/N2btBDbn/cr-20250203tn67a0344fb2a7b.jpg",
+    "playerName": "Andree Russel",
+    "playerCountry": "West Indis",
+    "playingRole": "All-rounder",
+    "rating": 4.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$ 4,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/S4BXw8RY/1746379259.jpg",
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playingRole": "W-keeper",
+    "rating": 4.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": "$ 3,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/8Wtr2BW/Rashid-Khan-becomes-highest-wicket-taker-in-T20-Is-2025-09-540fc3ceffc7da09a73e9d7adce792d5.jpg",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playingRole": "All-rounder",
+    "rating": 4.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg-spin",
+    "price": "$ 2,500 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/pqBWVbv/jaker-ali-anik.jpg",
+    "playerName": "Jaker Ali",
+    "playerCountry": "Bangladesh",
+    "playingRole": "W-keeper",
+    "rating": 4.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "2,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/1Jt9srBK/Babar-Azam-1.jpg",
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playingRole": "Batsman",
+    "rating": 4.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$ 4,000 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/S71kB1xf/rishad-hossain-has-been-picked-by-lahore-qalandars.webp",
+    "playerName": "Rishad Hossen",
+    "playerCountry": "Bangladesh",
+    "playingRole": "All-rounder",
+    "rating": 4.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$ 2,500 USD"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/393rTmF4/4747-722-13915.jpg",
+    "playerName": "Taskin Ahmed",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Bowler",
+    "rating": 4.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$ 3,000 USD"
+  }
+]
