@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import UerImg from "../../assets/User1.png";
 import UserFlag from "../../assets/Vector1.png";
 import SelectedPlayers from "../Navbar/SelectedPlayers/SelectedPlayers";
+import { toast } from "react-toastify";
 
 const PlayerCard = ({
   player,
@@ -24,11 +25,13 @@ const PlayerCard = ({
     );
 
     if (availBalance < playerPrice) {
-      alert("You don't have sufficient coin");
+      console.log("tarif");
+      toast("You don't have sufficient coin");
       return;
     }
     if (purchasedPlayers.length === 6) {
-      alert("6 players added");
+      console.log("hasan");
+      toast("6 players added");
       return;
     }
 
@@ -36,6 +39,7 @@ const PlayerCard = ({
     setAvailBalance(availBalance - playerPrice);
 
     setPurchasedPlayers([...purchasedPlayers, playerData]);
+    toast("player purchased");
   };
 
   return (

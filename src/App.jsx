@@ -1,12 +1,13 @@
 import { Suspense, useState } from "react";
 import "./App.css";
+import { ToastContainer } from "react-toastify";
 
 import AvailablePlayers from "./components/Navbar/AvailablePlayers/AvailablePlayers";
 import Navbar from "./components/Navbar/Navbar";
 import SelectedPlayers from "./components/Navbar/SelectedPlayers/SelectedPlayers";
 
 const fetchPlayers = async () => {
-  const res = await fetch("/public/players.json");
+  const res = await fetch("players.json");
   return res.json();
 };
 const playerPromise = fetchPlayers();
@@ -72,6 +73,8 @@ function App() {
           removePlayer={removePlayer}
         ></SelectedPlayers>
       )}
+
+      <ToastContainer />
     </>
   );
 }
